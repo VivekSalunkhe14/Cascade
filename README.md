@@ -14,7 +14,7 @@ Link for reference: https://dphi.tech/practice/challenge/46#problem
 # Dataset 
 
 Hackathon Round 2 Dataset: https://dphi.tech/practice/challenge/46#data  
-Analysis Round 3 Dataset is uploaded under Dataset section
+Analysis Round 3 Dataset is uploaded under Round 3 Section
 
 # Evaluation Criteria
 
